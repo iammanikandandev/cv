@@ -31,7 +31,7 @@ const Experience = () => (
           
           "Integrated RESTful APIs with Laravel backend services to enable seamless data communication across applications.",
           
-          "Built and maintained e-commerce platforms with user-focused design and optimized browsing experiences.",
+          "Customized Shopify themes & built responsive UI components, Handling Storefront API ,enhancing usability & visual consistency across storefronts.",
           
           "Optimized frontend performance using lazy loading, code splitting, and performance analysis tools.",
           
@@ -130,7 +130,7 @@ const Experience = () => (
 
             <li className="list-group-item border-0 ps-1">
               <i className="bi bi-check-circle-fill text-success me-2"></i>
-              Successfully delivered 15+ web applications including React.js platforms and e-commerce systems.
+              Successfully delivered 15+ web applications including React.js, Next.js platforms and e-commerce systems.
             </li>
 
             <li className="list-group-item border-0 ps-1">

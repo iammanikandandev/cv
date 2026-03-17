@@ -4,7 +4,7 @@ import React from 'react';
 
   const skillsData = {
     'Front-End Development': [
-      'ReactJS',
+      'React.js',
       'Next.js',
       'Redux Toolkit',
       'JavaScript',
